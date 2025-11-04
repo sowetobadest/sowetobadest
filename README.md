@@ -13,8 +13,6 @@
 
 ## 🧠 Tech Stack Overview
 
-> Visually track your skill levels — just edit the progress percentages below.
-
 <table align="center">
 <tr>
 <td valign="top">
@@ -79,7 +77,6 @@
 </table>
 
 <p align="center">
-💡 <i>To update: adjust the <code>value</code> in each progress bar (e.g., <code>value="85"</code>).</i>
 </p>
 
 ---
@@ -91,17 +88,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=sowetobadest&theme=discord&no-frame=true&margin-w=10&margin-h=10&row=1&column=8" alt="GitHub Trophies" class="trophy-img"/>
   </a>
 </p>
-
-<style>
-.trophy-img {
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  border-radius: 10px;
-}
-.trophy-img:hover {
-  transform: scale(1.05);
-  box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.25);
-}
-</style>
 
 ---
 
