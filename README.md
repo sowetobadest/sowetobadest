@@ -6,11 +6,12 @@ Welcome to my GitHub! Driven and detail-oriented *Cybersecurity & Computer Scien
 ---
 
 ### 🌟 *Core Skills*
-- 🛠️ Not A Master of JavaScript but Giving my 100%
-- 💻 Coding clean, efficient scripts
-- 📩 Join me on Telegram: **[DropXpert5](https://t.me/dropxpert5)**
-- 🚀 Crypto + Code = My vibe
-
+- Security Operations: Threat Detection, Incident Response, Log Analysis
+- Tools & Frameworks: ELK Stack, Splunk, OpenVAS, Wireshark, Metasploit, Burp Suite
+- Networking & Systems: TCP/IP, Firewalls, IDS/IPS, Linux, Windows Server
+- Programming & Automation: Python, Bash, PowerShell
+- Cloud Security: AWS (IAM, CloudTrail, GuardDuty), Azure
+- Practices: Vulnerability Assessment, System Hardening, CVE Analysis, Git Version Control
 ---
 
 ### 🚀 My GitHub Stats
@@ -45,7 +46,7 @@ Built a secure AWS cloud lab implementing IAM role-based access control, encrypt
 
 ---
 
-### 💸 Support the DropXpert Hustle
+### 💸 Support the 404NoFace Hustle
 Love the scripts? Fuel my automation mission with a donation!
 
 | Crypto         | Address                                      |
