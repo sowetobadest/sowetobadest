@@ -61,5 +61,5 @@ Love the scripts? Fuel my automation mission with a donation!
 404NoFace (Sowetobadest)
 
 📍 Nairobi, Kenya | 📧 morganke254@gmail.com
- | 💻 github.com/sowetobadest
+ | 💻 github: [/sowetobadest](https://github.com/sowetobadest)
  | 🔗 linkedin.com/in/your-link
